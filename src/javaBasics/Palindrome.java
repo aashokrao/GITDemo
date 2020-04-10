@@ -22,6 +22,9 @@ public class Palindrome {
 		System.out.println("It's a Palindrome4");
 		System.out.println("It's a Palindrome5");
 		System.out.println("It's a Palindrome6");
+		System.out.println("It's a develop1.0");
+		System.out.println("It's a develop1.0");
+		System.out.println("It's a develop1.0");
 	}
 	else
 	{
