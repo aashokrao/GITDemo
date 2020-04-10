@@ -14,6 +14,9 @@ public class Palindrome {
 	
 	if(t.equals(s)) {
 		System.out.println("It's a Palindrome");
+		System.out.println("It's a Palindrome1");
+		System.out.println("It's a Palindrome2");
+		System.out.println("It's a Palindrome3");
 	}
 	else
 	{
