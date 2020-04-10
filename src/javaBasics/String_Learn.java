@@ -9,6 +9,11 @@ public class String_Learn {
 		System.out.println(str.toUpperCase());
 		System.out.println(str.toLowerCase());
 		System.out.println(str.length());
+		System.out.println("GIT HUB");
+		System.out.println("GIT HUB1");
+		System.out.println("GIT HUB3");
+		System.out.println("GIT HUB4");
+		System.out.println("GIT HUB5");
 	}
 
 }

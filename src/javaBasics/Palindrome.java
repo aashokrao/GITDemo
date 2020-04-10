@@ -17,6 +17,11 @@ public class Palindrome {
 		System.out.println("It's a Palindrome1");
 		System.out.println("It's a Palindrome2");
 		System.out.println("It's a Palindrome3");
+		//
+		//
+		System.out.println("It's a Palindrome4");
+		System.out.println("It's a Palindrome5");
+		System.out.println("It's a Palindrome6");
 	}
 	else
 	{
